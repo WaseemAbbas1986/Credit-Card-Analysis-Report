@@ -6,7 +6,7 @@ In this project we have created dashbord for credit card trasection as well as c
 
 ### Data source
 
-In this report we have used 2 data sets "Credit_card.csv" and "Customer.csv". credit card file has 10000 rows and 18 columns which contain all credit card transection records and customer file has credit card customers details.
+In this report we have used 2 data sets "Credit_card.csv" and "Customer.csv". credit card file has 10000 rows and 18 columns which contain all credit card transection records and customer file has credit card customers details. which export to MS SQL Server and then connect power BI to SQL server for creating reports
 
 ![Credit card Trasection](https://github.com/WaseemAbbas1986/Credit-Card-Analysis-Report/assets/168902203/fb741fca-984d-4036-933c-2a8babd73f67)
 

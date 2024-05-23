@@ -13,6 +13,9 @@ In this report we have used 2 data sets "Credit_card.csv" and "Customer.csv". cr
 
 ![Customer details](https://github.com/WaseemAbbas1986/Credit-Card-Analysis-Report/assets/168902203/070e8a71-a0b1-4d1d-97f7-b7fa0f930b7c)
 
+![SQL Snap](https://github.com/WaseemAbbas1986/Credit-Card-Analysis-Report/assets/168902203/a4b45f14-5e17-456a-8daa-1c25546466ea)
+
+
 ### Tools
 
 - Microsoft SQl Server - Data Source
